@@ -25,10 +25,10 @@ Dr. Santosh Biswas was the course instructor and Project supervisor
 
 It was a group Project
 members:
-Naga Sai
-Sai Charan
-Hemanth kumar
-Gnaneswara Reddy
+Naga Sai;
+Sai Charan;
+Hemanth kumar;
+Gnaneswara Reddy;
 
 Entire information about the project is available in the Project Report
 
