@@ -20,15 +20,15 @@ Enjoy using the project!
 
 
 
-This project was a part of the course, Embedded Systems at IIT Bhilai
-Dr. Santosh Biswas was the course instructor and Project supervisor
+This project was a part of the course in winter 2023, Embedded Systems at IIT Bhilai.
+Dr. Santosh Biswas was the course instructor and Project supervisor.
 
-It was a group Project
+It was a group Project.
 members:
 Naga Sai;
 Sai Charan;
 Hemanth kumar;
 Gnaneswara Reddy;
 
-Entire information about the project is available in the Project Report
+Entire information about the project is available in the Project Report.
 
