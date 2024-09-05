@@ -1,5 +1,7 @@
 # Elevator-rescue-alerting-system-using-PIR-passive-infrared-sensor
 
+Entire information about the project is available in the Project Report.
+
 ## License and Usage
 
 This repository is **open source** and **free to use**. There are no specific license requirements or restrictions associated with this project. 
@@ -14,21 +16,13 @@ If you have any questions or need further clarification, please feel free to con
 
 Enjoy using the project!
 
+## Credits
 
+This project was a part of the course, **Embedded Systems** in Winter 2023, at IIT Bhilai. Dr. Santosh Biswas was the course instructor and Project supervisor.
 
-
-
-
-
-This project was a part of the course,Embedded Systems in winter 2023, at IIT Bhilai.
-Dr. Santosh Biswas was the course instructor and Project supervisor.
-
-It was a group Project.
-members:
-Naga Sai;
-Sai Charan;
-Hemanth kumar;
-Gnaneswara Reddy;
-
-Entire information about the project is available in the Project Report.
+**Group Members:**
+- Naga Sai
+- Sai Charan
+- Hemanth Kumar
+- Gnaneswara Reddy
 
