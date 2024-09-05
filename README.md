@@ -20,7 +20,7 @@ Enjoy using the project!
 
 
 
-This project was a part of the course in winter 2023, Embedded Systems at IIT Bhilai.
+This project was a part of the course,Embedded Systems in winter 2023, at IIT Bhilai.
 Dr. Santosh Biswas was the course instructor and Project supervisor.
 
 It was a group Project.
